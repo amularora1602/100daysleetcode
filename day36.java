@@ -1,4 +1,3 @@
-// day36
 // binary tree inorder traversal
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
